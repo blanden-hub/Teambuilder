@@ -1,7 +1,7 @@
 {
-  "name": "Teambuilder",
+  "name":"Team-builder",
   "version": "1.0.0",
-  "description": "Object-Oriented Programming Challenge",
+  "description": "",
   "main": "Index.js",
   "directories": {
     "lib": "lib"
